@@ -1,0 +1,5 @@
+flex-box
+.sigma{
+    display: flexbox;
+    flex-direction: column-reverse;
+} 
